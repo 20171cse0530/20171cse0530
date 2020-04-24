@@ -1,0 +1,2 @@
+https://github.com/20171cse0530/20171cse0530/blob/master/machine%20learning.ipynb
+https://github.com/20171cse0530/20171cse0530/blob/master/train1.csv
